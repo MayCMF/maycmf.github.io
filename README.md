@@ -1,2 +1,1 @@
-# maycms.github.com
-CMS Official Website 
+MayCMS Official Website and documentation
